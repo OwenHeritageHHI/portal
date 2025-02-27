@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+    background-color: lightblue;
+}
+
+.main {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding-left: 10px;
+}
+
+h1 {
+    font-family: system-ui, sans-serif;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-family: system-ui, sans-serif;
+    font-size: 2rem;
+}
+
+h3 {
+    font-family: ui-rounded, 'Hiragino Maru Gothic ProN', Quicksand, Comfortaa, Manjari, 'Arial Rounded MT', 'Arial Rounded MT Bold', Calibri, source-sans-pro, sans-serif;
+    font-size: 1.5rem;
+    padding-left: 2rem;
+}
+
+div {
+    padding-bottom: 10px;
+}
